@@ -36,8 +36,8 @@ Case       | Gerund | Supine
 :---       | :---   | :---
 Genitive   | -Vndi  | (none)
 Dative     | -Vndo  | (none)
-Accusative | -Vndum | -Vtum
-Ablative   | -Vndo  | -Vtu
+Accusative | -Vndum | -Vsum
+Ablative   | -Vndo  | -Vsu
 
 Nouns
 
