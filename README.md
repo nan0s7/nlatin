@@ -13,3 +13,12 @@ Perfect        | -im         | -sitis     | -sit
 Pluperfect     | -ram        | -seras     | -serat
 Future Perfect | -rim        | -seris     | -serit
 Plural         | -us         | [s] -tis   | [t] -nt
+
+Imperative
+
+Tense/etc       | 2nd per. singular | 3rd per. singular | 2nd per. plural | 3rd per. plural
+:---            | :---              | :---              | :---            | :---
+Active Present  | -V                | (none)            | -ite            | (none)
+Active Future   | -ito              | -ito              | -itote          | -Vntote
+Passive Present | -Vre              | (none)            | -Vrete          | (none)
+Passive Future  | -itor             | -itor             | (none)          | -Vntorte
