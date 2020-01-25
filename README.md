@@ -31,6 +31,7 @@ Active  | -Vns    | (none)  | -turus
 Passive | (none)  | -tus    | -Vndus
 
 Verbal Nouns
+
 Case       | Gerund | Supine
 :---       | :---   | :---
 Genitive   | -Vndi  | (none)
