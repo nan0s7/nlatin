@@ -18,10 +18,10 @@ Imperative
 
 Tense/etc       | 2nd per. singular | 3rd per. singular | 2nd per. plural | 3rd per. plural
 :---            | :---              | :---              | :---            | :---
-Active Present  | -V                | (none)            | -ite            | (none)
-Active Future   | -ito              | -ito              | -itote          | -Vntote
+Active Present  | -V                | (none)            | -Vte            | (none)
+Active Future   | -Vto              | -Vto              | -Vtote          | -Vntote
 Passive Present | -Vre              | (none)            | -Vrete          | (none)
-Passive Future  | -itor             | -itor             | (none)          | -Vntorte
+Passive Future  | -Vtor             | -Vtor             | (none)          | -Vntorte
 
 Participle
 
