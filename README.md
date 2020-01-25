@@ -2,7 +2,7 @@
 
 Verbs
 
-Active singular
+Active
 
 Tense          | 1st         | 2nd        | 3rd
 :---           | :---        | :---       | :---
@@ -22,3 +22,10 @@ Active Present  | -V                | (none)            | -ite            | (non
 Active Future   | -ito              | -ito              | -itote          | -Vntote
 Passive Present | -Vre              | (none)            | -Vrete          | (none)
 Passive Future  | -itor             | -itor             | (none)          | -Vntorte
+
+Participle
+
+Mood    | Present | Perfect | Future
+:---    | :---    | :---    | :---
+Active  | -Vns    | (none)  | -turus
+Passive | (none)  | -tus    | -Vndus
