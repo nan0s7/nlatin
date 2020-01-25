@@ -30,6 +30,14 @@ Mood    | Present | Perfect | Future
 Active  | -Vns    | (none)  | -turus
 Passive | (none)  | -tus    | -Vndus
 
+Verbal Nouns
+Case       | Gerund | Supine
+:---       | :---   | :---
+Genitive   | -Vndi  | (none)
+Dative     | -Vndo  | (none)
+Accusative | -Vndum | -Vtum
+Ablative   | -Vndo  | -Vtu
+
 Nouns
 
 Case       | Singular    | Plural
