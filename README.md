@@ -29,3 +29,13 @@ Mood    | Present | Perfect | Future
 :---    | :---    | :---    | :---
 Active  | -Vns    | (none)  | -turus
 Passive | (none)  | -tus    | -Vndus
+
+Nouns
+
+Case       | Singular | Plural
+:---       | :---     | :---
+Nominative | (none)   | -is
+Accusative | -um      | -umes
+Generative | -a       | -arum
+Dative     | -i       | -ibus
+Ablative   | -e/o     | -e/obus
