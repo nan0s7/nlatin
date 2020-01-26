@@ -17,7 +17,7 @@ Alternations
 
 Modification   | 1st         | 2nd        | 3rd
 :---           | :---        | :---       | :---
-Plural         | -us         | [s] -tis   | [t] -nt
+Plural         | -us         | [s] -tus   | [tV] -unt
 
 Imperative
 
