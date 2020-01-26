@@ -23,12 +23,14 @@ Active Future   | -Vto              | -Vto              | -Vtote          | -Vnt
 Passive Present | -Vre              | (none)            | -Vrete          | (none)
 Passive Future  | -Vtor             | -Vtor             | (none)          | -Vntorte
 
-Participle
+Non-finite Forms
 
-Mood    | Present | Perfect | Future
-:---    | :---    | :---    | :---
-Active  | -Vns    | (none)  | -turus
-Passive | (none)  | -tus    | -Vndus
+Mood               | Present | Perfect | Future
+:---               | :---    | :---    | :---
+Active Infinitive  | -Vre    | -Vsse   | -surum
+Passive Infinitive | -Vri    | -sum    | -sum
+Active Participle  | -Vns    | (none)  | -turus
+Passive Participle | (none)  | -tus    | -Vndus
 
 Verbal Nouns
 
