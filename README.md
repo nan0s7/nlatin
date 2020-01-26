@@ -51,7 +51,7 @@ Nouns
 Case       | Singular    | Plural
 :---       | :---        | :---
 Nominative | (no change) | -is
-Accusative | -um         | -umes
+Accusative | -um         | -um(e)s
 Genitive   | -a          | -arum
 Dative     | -i          | -ibus
 Ablative   | -e/o        | -e/obus
