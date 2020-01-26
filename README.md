@@ -52,6 +52,6 @@ Case       | Singular    | Plural
 :---       | :---        | :---
 Nominative | (no change) | -is
 Accusative | -um         | -umes
-Genative   | -a          | -arum
+Genitive   | -a          | -arum
 Dative     | -i          | -ibus
 Ablative   | -e/o        | -e/obus
